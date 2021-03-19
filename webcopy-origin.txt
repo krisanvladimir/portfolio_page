@@ -1,0 +1,352 @@
+Uri: https://mattfarley.ca/
+File Name: F:\Copy Site\mattfarley.ca\index.htm
+Content Type: text/html
+
+Uri: https://mattfarley.ca/img/favicon-32.png
+File Name: F:\Copy Site\mattfarley.ca\img\favicon-32.png
+Content Type: image/png
+
+Uri: https://mattfarley.ca/css/main.css
+File Name: F:\Copy Site\mattfarley.ca\css\main.css
+Content Type: text/css
+
+Uri: https://assets.calendly.com/assets/external/widget.css
+File Name: F:\Copy Site\mattfarley.ca\assets\external\widget.css
+Content Type: text/css
+
+Uri: https://mattfarley.ca/mentorship.html
+File Name: F:\Copy Site\mattfarley.ca\mentorship.html
+Content Type: text/html
+
+Uri: https://mattfarley.ca/contact
+File Name: F:\Copy Site\mattfarley.ca\contact.html
+Content Type: text/html
+
+Uri: https://mattfarley.ca/cdn-cgi/l/email-protection
+File Name: F:\Copy Site\mattfarley.ca\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://wfdesignbuild.com/
+File Name: F:\Copy Site\mattfarley.ca\index-1.htm
+Content Type: text/html
+
+Uri: http://coupalcranes.com/
+File Name: F:\Copy Site\mattfarley.ca\index-4.htm
+Content Type: text/html
+
+Uri: https://dribbble.com/mattfarley
+File Name: F:\Copy Site\mattfarley.ca\mattfarley.html
+Content Type: text/html
+
+Uri: https://usebasin.com/
+File Name: F:\Copy Site\mattfarley.ca\index-6.htm
+Content Type: text/html
+
+Uri: https://ylbuilders.com/
+File Name: F:\Copy Site\mattfarley.ca\index-7.htm
+Content Type: text/html
+
+Uri: https://userforge.com/
+File Name: F:\Copy Site\mattfarley.ca\index-8.htm
+Content Type: text/html
+
+Uri: https://mattfarley.ca/startup-inquiry
+File Name: F:\Copy Site\mattfarley.ca\startup-inquiry.html
+Content Type: text/html
+
+Uri: https://mattfarley.ca/project-planner
+File Name: F:\Copy Site\mattfarley.ca\project-planner.html
+Content Type: text/html
+
+Uri: https://twitter.com/farleymatters
+File Name: F:\Copy Site\mattfarley.ca\farleymatters.html
+Content Type: text/html
+
+Uri: https://www.producthunt.com/@farleymatters
+File Name: F:\Copy Site\mattfarley.ca\@farleymatters.html
+Content Type: text/html
+
+Uri: https://bulma.io/
+File Name: F:\Copy Site\mattfarley.ca\index-9.htm
+Content Type: text/html
+
+Uri: https://kit.fontawesome.com/9bdc906322.js
+File Name: F:\Copy Site\mattfarley.ca\9bdc906322.js
+Content Type: text/javascript
+
+Uri: https://mattfarley.ca/img/mf-logo.svg
+File Name: F:\Copy Site\mattfarley.ca\img\mf-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://mattfarley.ca/img/mf-avatar.svg
+File Name: F:\Copy Site\mattfarley.ca\img\mf-avatar.svg
+Content Type: image/svg+xml
+
+Uri: https://mattfarley.ca/img/hero.svg
+File Name: F:\Copy Site\mattfarley.ca\img\hero.svg
+Content Type: image/svg+xml
+
+Uri: https://mattfarley.ca/img/icons/designer.svg
+File Name: F:\Copy Site\mattfarley.ca\img\icons\designer.svg
+Content Type: image/svg+xml
+
+Uri: https://mattfarley.ca/img/icons/frontend.svg
+File Name: F:\Copy Site\mattfarley.ca\img\icons\frontend.svg
+Content Type: image/svg+xml
+
+Uri: https://mattfarley.ca/img/icons/mentor.svg
+File Name: F:\Copy Site\mattfarley.ca\img\icons\mentor.svg
+Content Type: image/svg+xml
+
+Uri: https://mattfarley.ca/img/projects/wfdesignbuild.png
+File Name: F:\Copy Site\mattfarley.ca\img\projects\wfdesignbuild.png
+Content Type: image/png
+
+Uri: https://mattfarley.ca/img/projects/awg2020.png
+File Name: F:\Copy Site\mattfarley.ca\img\projects\awg2020.png
+Content Type: image/png
+
+Uri: https://mattfarley.ca/img/projects/chronicled.png
+File Name: F:\Copy Site\mattfarley.ca\img\projects\chronicled.png
+Content Type: image/png
+
+Uri: https://mattfarley.ca/img/projects/glcsolutions.png
+File Name: F:\Copy Site\mattfarley.ca\img\projects\glcsolutions.png
+Content Type: image/png
+
+Uri: https://mattfarley.ca/img/projects/coupal.png
+File Name: F:\Copy Site\mattfarley.ca\img\projects\coupal.png
+Content Type: image/png
+
+Uri: https://mattfarley.ca/img/projects/wedlerengineering.png
+File Name: F:\Copy Site\mattfarley.ca\img\projects\wedlerengineering.png
+Content Type: image/png
+
+Uri: https://mattfarley.ca/img/logos/briteweb.svg
+File Name: F:\Copy Site\mattfarley.ca\img\logos\briteweb.svg
+Content Type: image/svg+xml
+
+Uri: https://mattfarley.ca/img/logos/goodkind.svg
+File Name: F:\Copy Site\mattfarley.ca\img\logos\goodkind.svg
+Content Type: image/svg+xml
+
+Uri: https://mattfarley.ca/img/logos/redstamp.svg
+File Name: F:\Copy Site\mattfarley.ca\img\logos\redstamp.svg
+Content Type: image/svg+xml
+
+Uri: https://mattfarley.ca/img/logos/domain7.svg
+File Name: F:\Copy Site\mattfarley.ca\img\logos\domain7.svg
+Content Type: image/svg+xml
+
+Uri: https://mattfarley.ca/img/logos/designlab.png
+File Name: F:\Copy Site\mattfarley.ca\img\logos\designlab.png
+Content Type: image/png
+
+Uri: https://mattfarley.ca/img/logos/chronicled.svg
+File Name: F:\Copy Site\mattfarley.ca\img\logos\chronicled.svg
+Content Type: image/svg+xml
+
+Uri: https://mattfarley.ca/img/logos/bldrs.png
+File Name: F:\Copy Site\mattfarley.ca\img\logos\bldrs.png
+Content Type: image/png
+
+Uri: https://mattfarley.ca/img/logos/serpmetrics.svg
+File Name: F:\Copy Site\mattfarley.ca\img\logos\serpmetrics.svg
+Content Type: image/svg+xml
+
+Uri: https://mattfarley.ca/img/logos/kybercore.svg
+File Name: F:\Copy Site\mattfarley.ca\img\logos\kybercore.svg
+Content Type: image/svg+xml
+
+Uri: https://mattfarley.ca/img/logos/houston.svg
+File Name: F:\Copy Site\mattfarley.ca\img\logos\houston.svg
+Content Type: image/svg+xml
+
+Uri: https://mattfarley.ca/img/logos/basin.svg
+File Name: F:\Copy Site\mattfarley.ca\img\logos\basin.svg
+Content Type: image/svg+xml
+
+Uri: https://mattfarley.ca/img/logos/ylbuilders.svg
+File Name: F:\Copy Site\mattfarley.ca\img\logos\ylbuilders.svg
+Content Type: image/svg+xml
+
+Uri: https://mattfarley.ca/img/logos/userforge.svg
+File Name: F:\Copy Site\mattfarley.ca\img\logos\userforge.svg
+Content Type: image/svg+xml
+
+Uri: https://mattfarley.ca/img/logos/dovetail.svg
+File Name: F:\Copy Site\mattfarley.ca\img\logos\dovetail.svg
+Content Type: image/svg+xml
+
+Uri: https://mattfarley.ca/img/avatars/pascal.png
+File Name: F:\Copy Site\mattfarley.ca\img\avatars\pascal.png
+Content Type: image/png
+
+Uri: https://mattfarley.ca/img/avatars/alvin.png
+File Name: F:\Copy Site\mattfarley.ca\img\avatars\alvin.png
+Content Type: image/png
+
+Uri: https://mattfarley.ca/img/mf-logo-white.svg
+File Name: F:\Copy Site\mattfarley.ca\img\mf-logo-white.svg
+Content Type: image/svg+xml
+
+Uri: https://bulma.io/images/made-with-bulma--white.png
+File Name: F:\Copy Site\mattfarley.ca\images\made-with-bulma--white.png
+Content Type: image/png
+
+Uri: https://mattfarley.ca/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: F:\Copy Site\mattfarley.ca\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://mattfarley.ca/js/main-min.js
+File Name: F:\Copy Site\mattfarley.ca\js\main-min.js
+Content Type: application/javascript
+
+Uri: https://assets.calendly.com/assets/external/widget.js
+File Name: F:\Copy Site\mattfarley.ca\assets\external\widget.js
+Content Type: application/javascript
+
+Uri: https://usebasin.com/f/363b98eca5af/ahoy.js
+File Name: F:\Copy Site\mattfarley.ca\f\363b98eca5af\ahoy.js
+Content Type: text/javascript
+
+Uri: https://use.typekit.net/ojv4ekx.css
+File Name: F:\Copy Site\mattfarley.ca\ojv4ekx.css
+Content Type: text/css
+
+Uri: https://mattfarley.ca/mentorship-inquiry
+File Name: F:\Copy Site\mattfarley.ca\mentorship-inquiry.html
+Content Type: text/html
+
+Uri: https://mattfarley.ca/img/mentorship.svg
+File Name: F:\Copy Site\mattfarley.ca\img\mentorship.svg
+Content Type: image/svg+xml
+
+Uri: https://mattfarley.ca/img/mentee-map.svg
+File Name: F:\Copy Site\mattfarley.ca\img\mentee-map.svg
+Content Type: image/svg+xml
+
+Uri: https://mattfarley.ca/img/logos/facebook.svg
+File Name: F:\Copy Site\mattfarley.ca\img\logos\facebook.svg
+Content Type: image/svg+xml
+
+Uri: https://mattfarley.ca/img/logos/netflix.svg
+File Name: F:\Copy Site\mattfarley.ca\img\logos\netflix.svg
+Content Type: image/svg+xml
+
+Uri: https://mattfarley.ca/img/logos/sony.svg
+File Name: F:\Copy Site\mattfarley.ca\img\logos\sony.svg
+Content Type: image/svg+xml
+
+Uri: https://mattfarley.ca/img/logos/microsoft.svg
+File Name: F:\Copy Site\mattfarley.ca\img\logos\microsoft.svg
+Content Type: image/svg+xml
+
+Uri: https://mattfarley.ca/img/logos/thumbtack.svg
+File Name: F:\Copy Site\mattfarley.ca\img\logos\thumbtack.svg
+Content Type: image/svg+xml
+
+Uri: https://mattfarley.ca/img/logos/clover.svg
+File Name: F:\Copy Site\mattfarley.ca\img\logos\clover.svg
+Content Type: image/svg+xml
+
+Uri: https://mattfarley.ca/img/logos/indeed.svg
+File Name: F:\Copy Site\mattfarley.ca\img\logos\indeed.svg
+Content Type: image/svg+xml
+
+Uri: https://mattfarley.ca/img/logos/yelp.svg
+File Name: F:\Copy Site\mattfarley.ca\img\logos\yelp.svg
+Content Type: image/svg+xml
+
+Uri: https://mattfarley.ca/img/avatars/dalrae.png
+File Name: F:\Copy Site\mattfarley.ca\img\avatars\dalrae.png
+Content Type: image/png
+
+Uri: https://mattfarley.ca/img/avatars/jenann.png
+File Name: F:\Copy Site\mattfarley.ca\img\avatars\jenann.png
+Content Type: image/png
+
+Uri: https://mattfarley.ca/img/avatars/jonathan.png
+File Name: F:\Copy Site\mattfarley.ca\img\avatars\jonathan.png
+Content Type: image/png
+
+Uri: https://mattfarley.ca/img/avatars/erika.png
+File Name: F:\Copy Site\mattfarley.ca\img\avatars\erika.png
+Content Type: image/png
+
+Uri: https://mattfarley.ca/img/avatars/arnold.png
+File Name: F:\Copy Site\mattfarley.ca\img\avatars\arnold.png
+Content Type: image/png
+
+Uri: https://use.fontawesome.com/releases/v5.0.6/js/all.js
+File Name: F:\Copy Site\mattfarley.ca\releases\v5.0.6\js\all.js
+Content Type: application/javascript
+
+Uri: https://www.google.com/recaptcha/api.js
+File Name: F:\Copy Site\mattfarley.ca\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://mattfarley.ca/cdn-cgi/styles/cf.errors.css
+File Name: F:\Copy Site\mattfarley.ca\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://support.cloudflare.com/hc/en-us/articles/200170016-What-is-Email-Address-Obfuscation-
+File Name: F:\Copy Site\mattfarley.ca\hc\en-us\articles\200170016-What-is-Email-Address-Obfuscation-.html
+Content Type: text/html
+
+Uri: https://support.cloudflare.com/hc/en-us/categories/200275218-Getting-Started
+File Name: F:\Copy Site\mattfarley.ca\hc\en-us\categories\200275218-Getting-Started.html
+Content Type: text/html
+
+Uri: https://awg2020.org/
+File Name: F:\Copy Site\mattfarley.ca\index-2.htm
+Content Type: text/html
+
+Uri: https://glcsolutions.ca/
+File Name: F:\Copy Site\mattfarley.ca\index-3.htm
+Content Type: text/html
+
+Uri: https://www.wedler.com/
+File Name: F:\Copy Site\mattfarley.ca\index-5.htm
+Content Type: text/html
+
+Uri: https://mattfarley.ca/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: F:\Copy Site\mattfarley.ca\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://mattfarley.ca/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: F:\Copy Site\mattfarley.ca\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://mattfarley.ca/cdn-cgi/images/browser-bar.png?1376755637
+File Name: F:\Copy Site\mattfarley.ca\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://mattfarley.ca/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: F:\Copy Site\mattfarley.ca\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://mattfarley.ca/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: F:\Copy Site\mattfarley.ca\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://mattfarley.ca/cdn-cgi/images/cf-icon-ok.png
+File Name: F:\Copy Site\mattfarley.ca\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://mattfarley.ca/cdn-cgi/images/cf-icon-error.png
+File Name: F:\Copy Site\mattfarley.ca\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://mattfarley.ca/cdn-cgi/images/cf-icon-browser.png
+File Name: F:\Copy Site\mattfarley.ca\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://mattfarley.ca/cdn-cgi/images/cf-icon-cloud.png
+File Name: F:\Copy Site\mattfarley.ca\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://mattfarley.ca/cdn-cgi/images/cf-icon-server.png
+File Name: F:\Copy Site\mattfarley.ca\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
